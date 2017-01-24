@@ -13,4 +13,5 @@ The viewer can do the following right now:
 * Rotate the model with the mouse.
 * Simple visualization shaders without lighting.
 
-I am still working on it, so new functionality will come.
+I am still working on it, so new functionality will come. 
+It only works on Windows now, but I will support other systems.
