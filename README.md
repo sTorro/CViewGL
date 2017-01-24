@@ -1,2 +1,16 @@
 # CViewGL
-Simple 3D viewer in OpenGL... WIP...
+Simple 3D viewer in OpenGL using CMake and C++
+
+Dependencies:
+* assimp-3.0.1270
+* glew-2.0.0
+* glfw-3.2.1
+* glm-0.9.7.1
+* SOIL
+
+The viewer can do the following right now:
+* Load OBJ files with textures.
+* Rotate the model with the mouse.
+* Simple visualization shaders without lighting.
+
+I am still working on it, so new functionality will come.
