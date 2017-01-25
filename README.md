@@ -11,6 +11,8 @@ Dependencies:
 The viewer can do the following right now:
 * Load OBJ files with textures.
 * Rotate the model with the mouse.
+* Zoom with mouse.
+* Resizable window and viewport.
 * Simple visualization shaders without lighting.
 
 I am still working on it, so new functionality will come. 
